@@ -6,8 +6,6 @@ BAU
 
 - Taken knowledge sharing sessions on Java 5, 6, 7 & 8 features and Lambda Expression exclusively for functional programming change in Java 8
 
-- Kept working on towards my PDP to concentrate the areas that I targeted to achieve my long term goal with a regular discussion with my manager Shankar and also able to feel the difference.
-
 - Done massive data extraction for the various business needs such as I&W queue rationalization, Fax related queries, CQMS case data.
 
 - Have written efficient queries by applying advanced SQL concepts to make it better in our day to day data processing activity which reduced execution time in production database server as well as improved the query performance.
@@ -23,7 +21,7 @@ CES re-platforming
 
 - Have done Struts framework migration analysis with respect to different version 1.3 and 2.5 in single handedly. Also, done a generic Struts framework migration strategy to use independent to application.
 
-- Have done another migration analysis to move from WAS 9.5 / WAS 5.1 to Liberty 17.0.0.3 version of WebSphere as this is a RBS strategic, cheaper and lightweight version Application Server deployable in production, taking a huge risk and have thorough understanding of this server as we’re the one who is doing migration and planning Go Live with this software in bank.
+- Have done another migration analysis to move from WAS 9.5 / WAS 5.1 to Liberty 17.0.0.3 version of WebSphere as this is a RBS strategic, cheaper and lightweight version Application Server deployable in production, took a huge risk and had a thorough understanding of this server as we’re the first who is doing migration and planning to go Live with this software in production.
 
 
 PDP
@@ -32,7 +30,7 @@ PDP
 - Attended training on Scrum and also have completed RBS internal Scrum Master certification
 - Mentoring vendor resource and building a well connect with them to deliver project and improved my people management skill
 - Have developed a utility tool for running database queries without environment dependency
-
+- Kept working on towards my PDP to concentrate the areas that I targeted to achieve my long term goal with a regular discussion with my manager Shankar and also able to feel the difference.
 
 
 Projects done
