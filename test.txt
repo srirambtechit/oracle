@@ -1,0 +1,52 @@
+Comments:-
+BAU
+- P2CI - Proactively collected both MDE and NFTE environments details (of course, instructed and got help from my LM - Shankar) and put it as a spreadsheet that helps us to reduce the challenge we faced earlier to find when we get request from P2CI migration, done appropriate testing to ensure migration happened successfully.
+
+- Identified and marked the unused servers for decommission to save cost towards bank simplification goal as well as to have a clear maintenance on Image & Workflow TES environment.
+
+- Taken knowledge sharing sessions on Java 5, 6, 7 & 8 features and Lambda Expression exclusively for functional programming change in Java 8
+
+- Kept working on towards my PDP to concentrate the areas that I targeted to achieve my long term goal with a regular discussion with my manager Shankar and also able to feel the difference.
+
+- Done massive data extraction for the various business needs such as I&W queue rationalization, Fax related queries, CQMS case data.
+
+- Have written efficient queries by applying advanced SQL concepts to make it better in our day to day data processing activity which reduced execution time in production database server as well as improved the query performance.
+
+CES re-platforming
+- Done in-depth analysis in terms of requirement analysis, fitting requirement and source code with existing functionality, identifying required modules and removing modules with respect to requirement from source code, restructuring project organization, rearranging EAR structure that compliance with JEE 7 spec to deliver CES application by migrating from old infrastructure to RBS strategic infrastructure under the banner of SSSRP programme.
+
+- Taken another huge step to implement a new build tool Gradle which is something new in Image & Workflow platform to replace the existing legacy ANT based build tool to facilitate the project build and deployment process easier.
+
+- Tried to adopt continuous integration in CESRP project just by applying the existing DevOps tools such as Artifactory, TeamCity, Bitbucket, JIRA to define a model which is very new to Image & Workflow platform again.
+
+- Faced a problem whilst transferring payload data between host and off-host in CES, wherein identified there was a significant rewriting of mapper classes of CesEvConnectorService (interface between CES application and Mainframe) was required. To solve that issue I’ve analyzed and understood the generated J2C CICS payload bean source code by RSA and provided right solution on time to avoid the significant rewriting of code which saved time and development effort of vendor resources.
+
+- Have done Struts framework migration analysis with respect to different version 1.3 and 2.5 in single handedly. Also, done a generic Struts framework migration strategy to use independent to application.
+
+- Have done another migration analysis to move from WAS 9.5 / WAS 5.1 to Liberty 17.0.0.3 version of WebSphere as this is a RBS strategic, cheaper and lightweight version Application Server deployable in production, taking a huge risk and have thorough understanding of this server as we’re the one who is doing migration and planning Go Live with this software in bank.
+
+
+PDP
+- Won first prize in Hackathon conducted by SETE team.
+ plan, execution, achievements and results
+- Attended training on Scrum and also have completed RBS internal Scrum Master certification
+- Mentoring vendor resource and building a well connect with them to deliver project and improved my people management skill
+- Have developed a utility tool for running database queries without environment dependency
+
+
+
+Projects done
+- Worked and progressed till Unit testing of I&W Applet Certificate renewal task simultaneously when I had CES re-platforming work.
+- Have supported in UCT fax enablement on queues and implementation was completed successfully
+- Have supported in reducing current SLA of I&W to MAS and MAS enablement on I&W queues change, implementation was successful no issues raised
+- Provided extended support on ISV windows 2K3 upgrade project from Image & Workflow application perspective
+- Have provided extended support to fix Image & Workflow production issue and identified problem of not starting Staffware because of mismatched order of LIVE/DR database server’s TNS entry at Staffware unix box.
+- Have worked with Application Management (AM) team to begin a new culture of DevOps model in Image & Workflow Platform in the recent I&W DR event happened on Nov 2017
+ 
+
+Awards & Recognition
+- YCCE statement evidence that 100% on time completion of my GPLs under Knowledge and Capability in Thinking Long Term.
+- Nominated 2 LOV awards under Working Together values. 
+    - a) WebConnect change award has been nominated by Shankar and the same got recognized by organization’s CIO, Patrick Eltridge. 
+    - b) Second award has been nominated by Marcus for the MI work done
+- Have done on time submission of Timesheet without giving a chance to fail
